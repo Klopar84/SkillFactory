@@ -1,1 +1,2 @@
 # SkillFactory
+GSSAPIAuthentication no
